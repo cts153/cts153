@@ -1,6 +1,1 @@
-- 👋 Hi, I’m KC 
-- 👀 I’m interested in ... ethical dilemmas psoed by the rise of AI
-- 🌱 I’m currently learning ... HTML, CSS, all things Adobe, and Spanish.
-- 💞️ I’m looking to collaborate on ... small simple projects that will boost my portfolio (: 
-- 📫 How to reach me ... send a dm!
-- ⚡ Fun fact: ... horses can hear your heart beat up to 7 feet away. 
+
